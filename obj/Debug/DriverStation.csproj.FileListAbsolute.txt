@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\bin\Debug\DriverStation.exe.config
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\bin\Debug\DriverStation.exe
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\bin\Debug\DriverStation.pdb
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.Form1.resources
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.exe
+c:\users\john\documents\visual studio 2013\Projects\DriverStation\DriverStation\obj\Debug\DriverStation.pdb
